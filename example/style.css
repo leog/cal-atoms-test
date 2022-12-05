@@ -1,4 +1,6 @@
 .another-theme {
   --state1: red;
   --state2: darkred;
+  --state1-dark: darkred;
+  --state2-dark: firebrick;
 }
