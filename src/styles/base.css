@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --state1: #55d3b8;
+  --state2: #2c947e;
+  --state1-dark: #1c453c;
+  --state2-dark: #0c322a;
+}
